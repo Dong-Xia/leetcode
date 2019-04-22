@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb774d40-f05e-4a71-b210-9adb0a3d2c15" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/leetcode$SimplifyPath71.ic" NAME="SimplifyPath71 Coverage Results" MODIFIED="1554968411522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LinkedListCycle141.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycle141.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="37" selection-start-line="37" selection-end-line="46" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkedListCycleII142.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycleII142.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../leetcode" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/SimplifyPath71.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RestoreIPAddresses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/SearchInRotatedSortedArray033.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/LongestContinuousIncreasingSubsequence674.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/KthLargestElementInAnArray215.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/LongestConsecutiveSequence128.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/PermutationSequence60.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/TrappingRainWater43.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/TrappingRainWater43.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/entity/Interval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/MergeIntervals56.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/entity/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/MergeTwoSortedLists21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xia/ncut/ReverseLinkedList206.java" />
+        <option value="$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SortList148.java" />
+        <option value="$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycle141.java" />
+        <option value="$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycleII142.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:/software/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="leetcode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="10" />
+    <option name="width" value="1285" />
+    <option name="height" value="730" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ncut" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/..//////////" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReverseLinkedList206">
+    <configuration name="MergeIntervals56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xia.ncut.MergeIntervals56" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xia.ncut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReverseLinkedList206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xia.ncut.ReverseLinkedList206" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xia.ncut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SimplifyPath71" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xia.ncut.SimplifyPath71" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TrappingRainWater43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xia.ncut.TrappingRainWater43" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xia.ncut.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimplifyPath71" />
+      <item itemvalue="Application.TrappingRainWater43" />
+      <item itemvalue="Application.MergeIntervals56" />
+      <item itemvalue="Application.ReverseLinkedList206" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseLinkedList206" />
+        <item itemvalue="Application.MergeIntervals56" />
+        <item itemvalue="Application.TrappingRainWater43" />
+        <item itemvalue="Application.SimplifyPath71" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb774d40-f05e-4a71-b210-9adb0a3d2c15" name="Default" comment="" />
+      <created>1554964052615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554964052615</updated>
+      <workItem from="1554964054531" duration="5533000" />
+      <workItem from="1555032181648" duration="4709000" />
+      <workItem from="1555295964500" duration="4892000" />
+      <workItem from="1555395444367" duration="2116000" />
+      <workItem from="1555470240645" duration="803000" />
+      <workItem from="1555471071461" duration="76000" />
+      <workItem from="1555471149816" duration="8678000" />
+      <workItem from="1555553600838" duration="7232000" />
+      <workItem from="1555636952326" duration="2410000" />
+      <workItem from="1555898691435" duration="4498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40947000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890856" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890856" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970502" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32890856" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/xia/ncut/TrappingRainWater43.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/entity/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ReverseLinkedList206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/TrappingRainWater43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/entity/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/MergeIntervals56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/src/main/java/xia/ncut/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/src/main/java/xia/ncut/TrappingRainWater43.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SearchInRotatedSortedArray033.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LongestContinuousIncreasingSubsequence674.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/KthLargestElementInAnArray215.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LongestConsecutiveSequence128.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/PermutationSequence60.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SearchInRotatedSortedArray033.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LongestContinuousIncreasingSubsequence674.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/KthLargestElementInAnArray215.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="327" column="32" selection-start-line="327" selection-start-column="32" selection-end-line="327" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="1036" column="38" selection-start-line="1036" selection-start-column="32" selection-end-line="1036" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="290" column="17" lean-forward="true" selection-start-line="290" selection-start-column="17" selection-end-line="290" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SimplifyPath71.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/RestoreIPAddresses.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SearchInRotatedSortedArray033.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LongestContinuousIncreasingSubsequence674.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/KthLargestElementInAnArray215.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LongestConsecutiveSequence128.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/PermutationSequence60.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/src/main/java/xia/ncut/KthLargestElementInAnArray215.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/src/main/java/xia/ncut/ThreeSum.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/leetcode/src/main/java/xia/ncut/TrappingRainWater43.java" />
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/TrappingRainWater43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/MergeIntervals56.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/SortList148.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ReverseLinkedList206.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/MergeTwoSortedLists21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/entity/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/entity/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycle141.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="37" selection-start-line="37" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/java/xia/ncut/LinkedListCycleII142.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
