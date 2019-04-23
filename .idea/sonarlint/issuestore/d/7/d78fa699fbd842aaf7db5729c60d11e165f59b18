@@ -1,7 +1,8 @@
 
 9squid:S3626#"Remove this redundant jump.(ÉŠ©ƒ8—ÆãÚ -
+}squid:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½ø­†8—ÆãÚ -
 9squid:S3626"Remove this redundant jump.(ÉŠ©ƒ8—ÆãÚ -
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ8—ÆãÚ -
 v
 squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ØĞ—¬8—ÆãÚ -
-ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(·ìÅéøÿÿÿÿ8—ÆãÚ -
-}squid:S1149/"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(½ø­†8—ÆãÚ -
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ìÅéøÿÿÿÿ8Ò°Š›¤-
