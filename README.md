@@ -1,5 +1,5 @@
 # leetcode
-leetcode算法题积累
+leetcode算法题积累,主要采用java进行实现
 
 ## 算法题分类
 ### 链表
