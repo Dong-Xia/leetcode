@@ -37,3 +37,7 @@ W
 leetcode.iml,1\2\12e6f90224ad9190b776ceffc4cfc992904bfa64
 `
 0src/main/java/xia/ncut/LinkedListCycleII142.java,6\4\644a4015744fde8ccdcb95537c13b6cce1daf106
+W
+'src/main/java/xia/ncut/MinStack155.java,3\d\3de8e4302079e1b4a3b74bab4e16fa1b3d920e3d
+[
++src/main/doc/linkedAndTrees/环形链表.md,7\5\757cf404cff17f9d0f4001c7c82e2dc4a5af2385
