@@ -1,5 +1,5 @@
 # leetcode
-leetcode算法题积累,主要采用java进行实现
+leetcode算法题相关算法题，主要采用java进行实现，提供了完整的解题思路
 
 ## 算法题分类
 ### 链表
