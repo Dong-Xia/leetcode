@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb774d40-f05e-4a71-b210-9adb0a3d2c15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/doc/array/最长连续递增序列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leetcode/src/main/doc/linkedAndTrees/二叉树的最近公共祖先.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/1/7/174214fec912d2df49f19c83e2d3c9f3e3770af4" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/1/7/174214fec912d2df49f19c83e2d3c9f3e3770af4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/4/c/4c43fddd4e1a2823762f7807913a6978b97169e1" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/4/c/4c43fddd4e1a2823762f7807913a6978b97169e1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/b/3/b318ffb289f45b2557a5ae0b2c6f429c0952422b" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/b/3/b318ffb289f45b2557a5ae0b2c6f429c0952422b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cb774d40-f05e-4a71-b210-9adb0a3d2c15" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +25,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="二叉树的最近公共祖先.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="二叉树的最近公共祖先.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/linkedAndTrees/二叉树的最近公共祖先.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="805">
-                <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <first_editor relative-caret-position="657">
+                <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="最长连续递增序列.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/array/最长连续递增序列.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -391,7 +394,7 @@
       <workItem from="1556587239669" duration="606000" />
       <workItem from="1556604280909" duration="3311000" />
       <workItem from="1557112030570" duration="5036000" />
-      <workItem from="1557194386039" duration="2936000" />
+      <workItem from="1557194386039" duration="3208000" />
     </task>
     <task id="LOCAL-00001" summary="添加leetcode练习项目">
       <created>1555908700394</created>
@@ -421,15 +424,21 @@
       <option name="project" value="LOCAL" />
       <updated>1557131047767</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="二叉树">
+      <created>1557204081111</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557204081111</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85826000" />
+    <option name="totallyTimeSpent" value="86098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -477,7 +486,8 @@
     <MESSAGE value="动态及贪心算法" />
     <MESSAGE value="快速排序实现数组中的第K个最大元素" />
     <MESSAGE value="最长连续序列" />
-    <option name="LAST_COMMIT_MESSAGE" value="最长连续序列" />
+    <MESSAGE value="二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -770,16 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/array/最长连续递增序列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/linkedAndTrees/二叉树的锯齿形层次遍历.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -810,8 +810,18 @@
     <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/linkedAndTrees/二叉树的最近公共祖先.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="805">
-            <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <first_editor relative-caret-position="657">
+            <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../leetcode/src/main/doc/array/最长连续递增序列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
