@@ -1,2 +1,2 @@
 
-squid:S1319"rThe type of the "stack" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(û†í»8œêíæ¦-
+squid:S1319L"rThe type of the "stack" object should be an interface such as "Deque" rather than the implementation "ArrayDeque".(û†í»8œêíæ¦-

@@ -63,3 +63,7 @@ k
 .src/main/doc/linkedAndTrees/相交链表160.md,6\8\68d2f319bb169b9c5e90ee50f54331ab9ef3e42d
 p
 @src/main/doc/linkedAndTrees/二叉树的锯齿形层次遍历.md,9\8\984db64a352f2cf539c7d89da6f3a3bc0b5e629b
+h
+8src/main/doc/array/数组中的第K个最大元素215.md,a\7\a795cba74cb9ed853c36b18b2d89a4ee0699c1c8
+X
+(src/main/doc/array/最长连续序列.md,a\e\ae1137ac323a6ecceb244c5310283929f74ec193
