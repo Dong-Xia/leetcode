@@ -1,6 +1,9 @@
 # leetcode
 leetcode算法题相关算法题，主要采用java进行实现，提供了完整的解题思路
 
+## 算法讲解
+#### [回溯算法](/src/main/doc/algorithm/回溯算法.md)
+
 ## 算法题分类
 ### 链表和树
 #### [103、二叉树的锯齿形层次遍历](/src/main/doc/linkedAndTrees/二叉树的锯齿形层次遍历.md)
