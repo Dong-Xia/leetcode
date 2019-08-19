@@ -18,6 +18,6 @@ package xia.ncut;
  */
 public class MaximalSquare221 {
     public int maximalSquare(char[][] matrix) {
-
+        return 1;
     }
 }
