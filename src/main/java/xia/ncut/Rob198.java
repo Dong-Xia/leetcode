@@ -13,6 +13,12 @@ import java.util.Map;
 public class Rob198 {
     // 备忘录
     private Map<Integer, Integer> map = new HashMap<>();
+
+    /**
+     * 自顶向下的动态规划
+     * @param nums
+     * @return
+     */
     public int rob(int[] nums) {
         return jisuan(nums,nums.length);
     }
@@ -50,6 +56,32 @@ public class Rob198 {
         }
     }
 
+    /**
+     * （自底向上的动态规划）降低时间复杂度的动态规划实现
+     * @param nums
+     * @return
+     */
+    public int rob1(int[] nums) {
+        if(nums.length == 1){
+            return nums[0];
+        }
+
+        if (nums.length <=0) {
+            return 0;
+        }
+
+        if (nums.length == 2) {
+            return Math.max(nums[0], nums[1]);
+        }
+
+        int[] dp = new int[nums.length];
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0], nums[1]);
+        for (int i = 2;i<nums.length;i++) {
+            dp[i] = Math.max(dp[i - 2] + nums[i], dp[i - 1]);
+        }
+        return dp[nums.length - 1];
+    }
 
     public static void main(String[] args) {
         long l = System.currentTimeMillis();
